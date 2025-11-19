@@ -67,9 +67,11 @@
 <div align="center">
 
   <br>
+
 <br>
-<a href="https://github.com/devxb/gitanimals">
-<img src="https://render.gitanimals.org/lines/ChanWooong?pet-id=1" width="1000" height="120"/>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChanWooong&theme=react&bg_color=ffffff&color=454343)](https://github.com/yyoungl/github-readme-activity-graph&theme=react)
+
+<a href="https://github.com/devxb/gitanimals">
+<img src="https://render.gitanimals.org/lines/ChanWooong?pet-id=1" width="1000" height="120"/>
