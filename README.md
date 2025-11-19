@@ -5,8 +5,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&section=header&text=ChanWooong's%20Github&fontSize=50&&animation=twinkling&fontAlign=65&fontAlignY=36)
     <br>
-    <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/ChanWooong?pet-id=1" width="1000" height="120"/>
     <a href="https://github.com/ChanWooong"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ChanWooong&show_icons=true&theme=buefy&card_width=300" /></a>
     <a href="https://github.com/ChanWooong?tab=repositories"><img height=200 align="center" src="https://streak-stats.demolab.com/?user=ChanWooong&theme=buefy&border=E4E2E2&card_width=400" />
 </a>
@@ -70,7 +68,8 @@
 
   <br>
 <br>
-
+<a href="https://github.com/devxb/gitanimals">
+<img src="https://render.gitanimals.org/lines/ChanWooong?pet-id=1" width="1000" height="120"/>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChanWooong&theme=react&bg_color=ffffff&color=454343)](https://github.com/yyoungl/github-readme-activity-graph&theme=react)
