@@ -10,6 +10,9 @@
 </a>
   </div>
   <br>
+  <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/ChanWooong?pet-id=1" width="1000" height="120"/>
+</a>
   <div align="center">
     <img height=200 width=400 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chanwong12" />
      <img height=300 width=400 align="center" src="http://mazandi.herokuapp.com/api?handle=chanwong12&theme=warm"/>
