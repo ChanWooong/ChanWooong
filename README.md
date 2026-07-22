@@ -22,8 +22,6 @@
 🖥️ ***Department of Computer Science*** <span style="color: #ADADAD">*Sub major : fintech*</span>
 
 
-
-
 <br>
 
 🛠 𝚂𝚔𝚒𝚕𝚕𝚜 & 𝚃𝚘𝚘𝚕𝚜
@@ -52,9 +50,15 @@
 
 <br>
 
-<a href="https://github.com/devxb/gitanimals">
-<img src="https://render.gitanimals.org/lines/ChanWooong?pet-id=1" width="1000" height="120"/>
 
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/867749524641267010/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
 <hr>
 <div align="center">
 
