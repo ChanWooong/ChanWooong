@@ -49,9 +49,7 @@
 <br>
 
 <br>
-
-
-<a href="https://www.gitanimals.org/">
+ <a href="https://www.gitanimals.org/">
       <img
         src="https://render.gitanimals.org/guilds/867749524641267010/draw"
         width="600"
@@ -59,6 +57,8 @@
         alt="gitanimals"
       />
     </a>
+
+
 <hr>
 <div align="center">
 
